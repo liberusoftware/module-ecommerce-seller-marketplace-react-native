@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-seller-marketplace-react-native",
+  "capabilityKey": "planned:ecommerce:seller-marketplace",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-seller-marketplace-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/seller-marketplace.md",
+  "presentationPlan": "projects/ecommerce/react-native/seller-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
